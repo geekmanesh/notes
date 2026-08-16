@@ -1,0 +1,4 @@
+const obj = {
+    property1: value1,
+    2: value2,
+}
